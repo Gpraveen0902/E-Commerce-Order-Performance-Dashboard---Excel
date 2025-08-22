@@ -1,4 +1,3 @@
-# E-Commerce-Order-Performance-Dashboard---Excel
 # E-commerce Orders Performance Dashboard (Excel + Power Query)
 
 ## 1. Overview (Problem Statement)
