@@ -81,5 +81,5 @@ This project demonstrates how **Excel + Power Query** can replicate real-world b
 ---
 
 ## Screenshot
-[E-Commerce_Dashboard.jpg]
+E-Commerce_Dashboard.png
 
